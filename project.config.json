@@ -40,6 +40,7 @@
   "appid": "wxc08a6e4f848ceb83",
   "projectname": "cloud-music",
   "libVersion": "2.14.1",
+  "cloudfunctionTemplateRoot": "cloudfunctionTemplate",
   "condition": {
     "plugin": {
       "list": []

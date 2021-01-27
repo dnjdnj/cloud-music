@@ -30,12 +30,10 @@ Page({
 
     // let _this = this
     wx.cloud.callFunction({
-      name : 'login'
+      name : 'getPlayList'
     }).then((res) =>{
-      this.setData({
-        openid : res.result.openid
-      })
-      console.log(JSON.stringify(res.result))
+      
+      console.log(res)
     })
   },
 
