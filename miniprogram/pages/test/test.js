@@ -12,29 +12,17 @@ Page({
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
-    //var let const
-    // for(var i = 0;i < 5 ; i++){
-
-    // }
-    // console.log(i)
-    // const a = 3
-    // a = 4
-    // const obj = {}
-    // const arr = []
-    // const str = ''
-    // const name = 'dnj'
-    // const person ={
-    //   name : name,
-    //   age : 30,
-    // }
-
-    // let _this = this
-    wx.cloud.callFunction({
-      name : 'getPlayList'
-    }).then((res) =>{
-      
-      console.log(res)
-    })
+ 
+    // wx.cloud.callFunction({
+    //   name : 'getPlayList'
+    // }).then((res) =>{
+    //   console.log(res)
+    // })
+    // wx.cloud.callFunction({
+    //   name : 'deleteAll'
+    // }).then((res) =>{
+    //   console.log(res)
+    // })
   },
 
   /**

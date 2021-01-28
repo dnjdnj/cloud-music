@@ -62,6 +62,13 @@
         {
           "name": "test",
           "pathName": "pages/test/test",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "musiclist",
+          "pathName": "pages/musiclist/musiclist",
+          "query": "playlistId=763507776",
           "scene": null
         }
       ]
