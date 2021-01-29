@@ -1,0 +1,33 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1611937316826'); /* IE9 */
+  src: url('iconfont.eot?t=1611937316826#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAOgAAsAAAAACGgAAANTAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDKgqEBINBATYCJAMUCwwABCAFhG0HUxtQBxEVnF/IfibwplHHQ1QSxP38Wlfh4E3w/Gf3davqdU8N1X+pyHL/BZDCjBDRw3DORqoECBBLuMfajTkbs46aK8pZ9OgLScvppdn2L5x4If/gctq0BObZW05zTFoYxWkBBTb2ICtxbIGdQzyDvR0KiKMMtVBt23fti0XQ+ilATZ00YRQ25kQQKWJR+DlTJVFtx8PqDfoZsM39vSqmtrKg8Qza0J7j242lZZ6f99SELmSojYLVnx6QZoEBagECanKucSzGD9bCEPdpLTQELBYNfYXP5D11jjBP2GsRWv0PDzQKg4Dy0dITAGhJIYE830SgIe8MAgV5TxAYyHvKvim7eADEAYnABuAdSSv1KTB6i4QEkcTE1MTYWOO0JS9/9n31q9+b/AGv8xa+ft3/zZsBr171e/lycryOG2KWlFX390Vd3yEvIqcdvZzzsl+/A1eqjtl3r/mAjXuVie7btAcd7h48ag94MkbuHuWJlmSyKugHjd7Lnuwx+0ZzbjkTvpNy5eSdLi9XzuKGOYmHbt6RP38EeXdEOnJ5mZ76R/ufCqdEp1ChzvRXEokI8l4xHX0SRLxXOj8IY2/fE+fkHsqd42I69kfB2zPjWlapaaB6MJtHwZApNe9ZE/0X2Fu2wBSm2Pn4x0rQhQqx6iBch0a919chFGj90ZIU5KVwLCwEnBYfCiYEd1BgpgOYE3o93KMABR9jVl0akdz0t40XAD42HlAJmO0xAeuBsWqznmyBNHMOEsgcLd4TQPwVG5tByG7jwqPmOw4NxOlWcGRN43M/4szaflDYGEsCTQylwWCphBZ8LfCIpy74WFpAHDXpMDuedGZjUBIL1GANgCKFc6BJ4h4YUniOFrznD7p2/qFnURtGXq2XHNuXjI6CnmII/i8kAZdkaHTkZd4weueeRDku8YVSJx5wTDsZuWKJ0seI+hO5qgQkXMAFdsM8Z6iEUwzUjFWrg2VR3ofMgIvGyJFAHoVCwPcLJAKsRHZtNUp9/wZF3nIeKSn7oX1BopY0Dxwmuwb6KixrlZ3LLbWPiEspAohgBXABPcr1IANVfqcUCihT3MJfObCoEtUVmuOLi2vcQKMxom3VTSujRHnKpzeTV0Z9R+cMY4FueA3bGfkGp9EAAA==') format('woff2'),
+  url('iconfont.woff?t=1611937316826') format('woff'),
+  url('iconfont.ttf?t=1611937316826') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1611937316826#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bofang:before {
+  content: "\e6ad";
+}
+
+.icon-bofang1:before {
+  content: "\e606";
+}
+
+.icon-hanhan-01:before {
+  content: "\e6c5";
+}
+
+.icon-hanhan-011:before {
+  content: "\e6c6";
+}
+
