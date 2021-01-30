@@ -10,8 +10,8 @@
 
   <view class="control">
     
-    <text class="iconfont icon-hanhan-01"></text>
+    <text class="iconfont icon-hanhan-01" bind:tap="onPrev"></text>
     <text class="iconfont {{isPlaying?'icon-bofang':'icon-bofang2'}}" bind:tap='togglePlaying'></text>
-    <text class="iconfont icon-hanhan-011"></text>
+    <text class="iconfont icon-hanhan-011" bind:tap="onNext"></text>
   </view>
 </view>
